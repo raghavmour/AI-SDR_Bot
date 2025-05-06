@@ -1,1 +1,15 @@
+fastapi
+uvicorn
+python-dotenv
+pydantic
 streamlit
+pandas
+tiktoken
+pymongo
+bcrypt
+PyJWT
+langchain
+langchain-community
+sentence-transformers
+openai
+PyPDF2
