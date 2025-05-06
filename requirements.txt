@@ -10,6 +10,7 @@ bcrypt
 PyJWT
 langchain
 langchain-community
+langchain-openai
 sentence-transformers
 openai
 PyPDF2
