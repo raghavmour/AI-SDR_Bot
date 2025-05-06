@@ -8,6 +8,15 @@ from pymongo import MongoClient
 import os
 from dotenv import load_dotenv
 
+import logging
+
+# Configure global logging
+logging.basicConfig(
+    level=logging.INFO,  # Set to DEBUG for more verbose output
+    format="%(asctime)s - %(name)s - %(levelname)s - %(message)s"
+)
+
+
 load_dotenv()
 MONGO_URI = os.getenv("MONGODB_URI")
 client = MongoClient(MONGO_URI)
