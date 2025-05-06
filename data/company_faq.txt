@@ -1,0 +1,32 @@
+CRM Overview:
+Our CRM platform helps sales teams manage leads, track interactions, and automate follow-ups. It integrates with tools like Slack, Gmail, Zoom, and Zapier.
+
+Pricing:
+We offer 3 plans:
+- Starter: $29/month (up to 10 users)
+- Team: $79/month (up to 50 users)
+- Enterprise: Custom pricing
+
+Features:
+- Lead scoring and qualification
+- Workflow automation
+- Email tracking and templates
+- Custom dashboards and reporting
+
+Refund Policy:
+Customers can request a full refund within 14 days of purchase. Refunds are not available after that period.
+
+Security & Compliance:
+Our platform is GDPR compliant and offers two-factor authentication (2FA), role-based access control, and encrypted data storage.
+
+Support:
+We provide 24/7 support via live chat and email. Phone support is available to Team and Enterprise users.
+
+Demo & Onboarding:
+You can schedule a demo directly from our website or request onboarding assistance after signing up.
+
+Integrations:
+Our CRM integrates with over 200+ apps, including Salesforce, HubSpot, Google Calendar, Mailchimp, and Stripe.
+
+Analytics:
+Real-time sales reports, conversion rates, and team performance dashboards are included in all plans.
